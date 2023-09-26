@@ -1,0 +1,18 @@
+{
+  "guidebook": [
+    null,
+    {
+      "chapname": "1. Critical Thinking",
+      "fulltext": "This is the full text that will open when user click on clicking the list of the title that says - Critical thinking "
+    },
+    {
+      "chapname": "2. Family",
+      "fulltext": "This is the full text that will open when user click on clicking the list of the title that says - Family"
+    },
+    {
+      "chapname": "3. Sports",
+      "fulltext": "This is the full text that will open when user click on clicking the list of the title that says - Sports"
+        }
+  ]
+}
+    
