@@ -3,16 +3,19 @@
     {
       "title": "Chapter 1",
       "story": "This is the content of Chapter 1.",
+      "rewardTxt" : " Grammar Section Solution",
       "reward": "Unlock special content for Chapter 1."
     },
     {
       "title": "Chapter 2",
       "story": "This is the content of Chapter 2.",
+      "rewardTxt" : " Grammar Section Solution",
       "reward": "Unlock special content for Chapter 2."
     },
     {
       "title": "Chapter 3",
       "story": "This is the content of Chapter 3.",
+      "rewardTxt" : " Grammar Section Solution",
       "reward": "Unlock special content for Chapter 3."
     }
   ]
